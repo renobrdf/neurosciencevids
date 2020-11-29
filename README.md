@@ -10,10 +10,18 @@ This is the phase 1 of the research.
 
 Articles
 https://nba.uth.tmc.edu/neuroscience/s1/introduction.html
+
 https://nba.uth.tmc.edu/neuroscience/s2/chapter01.html
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter06.html
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter11.html
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter13.html
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter04.html
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter14.html
+
+
 https://nba.uth.tmc.edu/neuroscience/s1/chapter07.html
